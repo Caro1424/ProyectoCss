@@ -14,7 +14,58 @@
    height: 20vh;
    
  }
+ img {
+  background-image: url("../images/Logo_Mighty_ducks-01.png");
+  position: relative;
+  left: 90%;
+  bottom: 5rem;
   
+ }
+
+  h2 {
+  background-color: aquamarine;
+  background-position: center center;
+  height: 3rem;
+  text-align: center;
+  padding-top: 0.3rem;
+ }
+ 
+h3 {
+  color: blueviolet;
+}
+p {
+  color: blue;
+}
+ section {
+  position:relative;
+  left: 25%;
+  bottom: 15rem;
+  height: 25%;
+ }
+ 
+a {
+  display: block;
+  margin-bottom: 2rem;
+}
+nav {
+  padding-left: 2rem;
+  padding-bottom: 5rem;
+}
+footer {
+  position:relative;
+  left: 25%;
+  bottom: 15rem;
+  height: 25%;
+
+}
+  
+
+
+  
+ 
+ 
+
+
    
 
    
